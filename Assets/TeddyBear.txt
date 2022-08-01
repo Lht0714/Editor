@@ -1,0 +1,1 @@
+[{"name":"1","skillComponents":{"动画":[{"ComponentName":"Attack1"}],"音效":[{"ComponentName":"hit"}],"特效":[{"ComponentName":"FX_DJE_Att01"}]}},{"name":"2","skillComponents":{"动画":[{"ComponentName":"Attack3"}]}}]
